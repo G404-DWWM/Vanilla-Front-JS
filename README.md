@@ -3,7 +3,7 @@
 # Exercices JavaScript
 
 
-[Vidéo tutoriel JS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV) 
+[Vidéo tutoriel JS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV)   
 Voici une playlist de tutoriels de javascript. Les vidéos sont longues et il y en a un bon nombre ne vous attardez pas trop longtemps dessus et pratiquez avec les exercices.
 
 ## Apprendre le JavaScript 
