@@ -12,6 +12,6 @@ Manipuler le DOM
 Écouteurs d'événements
 
 ## 💪 Exercices JS
--(Exercices-JS-1)[https://github.com/g404-dev-web/Exercies-JS-1]
--(Exercices-JS-2)[https://github.com/g404-dev-web/Exercices-JS-2]
--(Exercices-JS-3)[https://github.com/g404-dev-web/Exercices-JS-3]
+- [Exercices-JS-1](https://github.com/g404-dev-web/Exercies-JS-1)  
+- [Exercices-JS-2](https://github.com/g404-dev-web/Exercices-JS-2)  
+- [Exercices-JS-3](https://github.com/g404-dev-web/Exercices-JS-3)  
