@@ -1,4 +1,4 @@
-# Vanilla-01-JS
+# Vanilla-Front-JS
 
 # Exercices JavaScript
 
